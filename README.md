@@ -12,3 +12,13 @@ conda activate venv/
 ```
 pip install -r requirements.txt
 ```
+
+
+# Steps:
+
+```
+1. Load the CSV file.
+2. Check for missing values.
+3. Segregate numerical and categorical columns
+
+```
